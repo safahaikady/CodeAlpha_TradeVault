@@ -6,7 +6,7 @@ TradeVault is a console-based Java application that simulates a basic stock trad
 
 The system allows users to view market data, search for stocks, buy and sell shares, manage their portfolio, track transactions, and monitor portfolio performance.
 
-The project was developed as part of the **CodeAlpha Java Programming Internship – Task 2**.
+The project was developed as part of the **CodeAlpha Java Programming Internship – Task 3**.
 
 ---
 
